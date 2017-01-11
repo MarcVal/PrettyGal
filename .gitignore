@@ -1,0 +1,6 @@
+/.idea/
+/target/
+*.iml
+/jira.log/
+*log
+jira.log*
